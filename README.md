@@ -4,7 +4,7 @@
 ---
 
 # Overview
-Implementing Valgrin for week 5 assignment of ENPM 808X course.
+Using Valgrind to correct errors, for week 5 assignment of ENPM 808X course.
 
 ## Standard install via command-line
 ```
